@@ -1,3 +1,2 @@
 # Planeter
 * Uranus
-* Venus
